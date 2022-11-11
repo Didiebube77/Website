@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome to my World</title>
+</head>
+<body> 
+    <h1>WELCOME</h1>
+    <p> This is my second page. Hope you like it.</p>
+<a href="first.htm"> click here to go the first page</a>
+</body>
+</html>
